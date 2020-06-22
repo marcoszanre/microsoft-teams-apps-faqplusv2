@@ -224,7 +224,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>When SME team member asks bot a questions- a message appears saying that team member is supposed to install the bot in personal scope.</comment>
   </data>
   <data name="ChangeStatusButtonText" xml:space="preserve">
-    <value>Change status</value>
+    <value>Alterar status</value>
     <comment>Text on change status button.</comment>
   </data>
   <data name="ResponseHeaderText" xml:space="preserve">
@@ -292,7 +292,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>Notification text sent to the user who opened a ticket, when the ticket is reopened.</comment>
   </data>
   <data name="GoToOriginalThreadButtonText" xml:space="preserve">
-    <value>Go to original thread</value>
+    <value>Ir para thread original</value>
     <comment>Go to original thread button available on messaging extension card.</comment>
   </data>
   <data name="NonSMEErrorText" xml:space="preserve">
@@ -392,7 +392,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>Unhelpful: available feedback rating scale.</comment>
   </data>
   <data name="ViewArticleButtonText" xml:space="preserve">
-    <value>View article</value>
+    <value>Ver artigo</value>
     <comment>The necessary string for the view article button</comment>
   </data>
   <data name="SMEFeedbackHeaderText" xml:space="preserve">
